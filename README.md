@@ -4,7 +4,7 @@ My solution to the 'Build a Pomodoro Clock' intermediate front end project in Fr
 </br>
 <a href="https://www.freecodecamp.com/challenges/build-a-pomodoro-clock" target = "blank">Free Code Camp Link</a>
 </br>
-<a href="https://codepen.io/AswiniSurabhi/full/zwVMRj/" target = "blank">My Solution</a>
+<a href="https://codepen.io/AswiniSurabhi/full/zwVMRj/" target ="blank">My Solution</a>
 </br>
 <b>##Technologies Used:</b>
 
